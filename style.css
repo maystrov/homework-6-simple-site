@@ -119,5 +119,25 @@ body {
     color: #FFFFFF; 
     margin-top: 5px;
 }
+.video_section {
+    background-color: #EEEFF1;
+    text-align: center;
+    padding-top: 100px;
+}
+.video_title {
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+}
+.video_text {
+    display: inline-block;
+    width: 540px;
+    text-align: center;
+    color: #727272; 
+    margin-top: 42px;
+    margin-bottom: 42px ;
 
+}
 
